@@ -6,7 +6,12 @@ Link Shortener is a Chrome extension developed to shorten the long Links.
 Generally some url links are very lenthy and its hard to share them with anyone, so using this tool you can create a short url which is easy to share on any platform.
 
 ### Demo Video
-![Demo Video](https://user-images.githubusercontent.com/74227514/176150980-3a1a45a7-d8e1-4354-bc3b-1b7dc150ec7f.mp4)
+
+
+
+https://user-images.githubusercontent.com/74227514/176152451-99d30fe0-5aa9-4869-b5a8-734b58cbd8a5.mp4
+
+
 
 ## Extension Installation Steps:
 1. Download this Repository as ZIP (as shown in below image).
