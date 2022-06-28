@@ -8,11 +8,6 @@ Generally some url links are very lenthy and its hard to share them with anyone,
 ### Demo Video
 
 
-
-https://user-images.githubusercontent.com/74227514/176152451-99d30fe0-5aa9-4869-b5a8-734b58cbd8a5.mp4
-
-
-
 ## Extension Installation Steps:
 1. Download this Repository as ZIP (as shown in below image).
 ![Link Shortener GitHub Page](https://1.bp.blogspot.com/-Xg0Xjw_8_Zc/X27w__BPfDI/AAAAAAAABHI/inWEWM1SbOkDpOINSBO_83d6kL20KfBXwCLcBGAsYHQ/w640-h402/1.PNG)
