@@ -1,5 +1,5 @@
 # Link-Shortener-Chrome-Extension
-![Link Shortener Chrome Extension](https://1.bp.blogspot.com/-EGpzJyhzHUs/X27_IYrKpBI/AAAAAAAABIk/fuqwjR5rIwQriz896Gk1iH0Wkj-UJIP6ACLcBGAsYHQ/w200-h200/Logo.png)
+![Link Shortener Chrome Extension]()
 
 Link Shortener is a Chrome extension developed to shorten the long Links.
 
