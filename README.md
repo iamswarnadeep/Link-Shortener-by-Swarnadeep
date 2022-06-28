@@ -1,5 +1,7 @@
 # Link-Shortener-Chrome-Extension
-![Logo](https://user-images.githubusercontent.com/74227514/176155500-7104c24e-7fd1-4c9d-98b3-ac5c9819649c.png)
+![Logo](https://user-images.githubusercontent.com/74227514/176158701-ae980052-85da-415f-b9d9-7f131fa4877a.png)
+
+
 
 
 Link Shortener is a Chrome extension developed to shorten the long Links.
@@ -25,19 +27,17 @@ https://user-images.githubusercontent.com/74227514/176155407-13858b38-b83e-4677-
 
 5. The installation is completed.
 
-6. You can use it in two way. 
-   6.1> No need to setup API, just click on the extenstion and use it.
+6. You can use it in two method. 
 
+## 1st Method
+No need to setup API, just click on the extenstion and use it. See below
 ## Usage Instructions:
-Click on the extension(Link Shortener Chrome Extension) from chrome extensions, it opens a popup.
+* Click on the extension(Link Shortener Chrome Extension) from chrome extensions, it opens a popup.
+* There provide the long Link that you want to shorten and click on Create.
+* And it generated the short Link (you can use it)
 
-There provide the long Link that you want to shorten and click on Create.
-
-And it generated the short Link (you can use it)
-
-
-   6.2> In order to use this extension using your own API you need to setup few more things, 
-   those are below.
+## 2nd Method
+In order to use this extension using your own API you need to setup few more things, See below.
 ## Configuration Steps:
 * Open website [T.ly](https://t.ly/home)
 * Signup on this website then login to the website.
