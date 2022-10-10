@@ -18,7 +18,7 @@ Generally some url links are very lengthy and it's hard to share them with anyon
 <video src="https://user-images.githubusercontent.com/74227514/176155407-13858b38-b83e-4677-9794-9eb5dbec5bfe.mp4"/></div>
 
 ## Extension Installation Steps:
-1. Download this Repository as ZIP (as shown in below image).
+1. Download this Repository as ZIP.
 
 2. Extract the ZIP file into a seperate folder.
 
@@ -33,9 +33,9 @@ Generally some url links are very lengthy and it's hard to share them with anyon
 ## 1st Method
 No need to setup API, just click on the extenstion and use it. See below
 ## Usage Instructions:
-* Click on the extension(Link Shortener Chrome Extension) from chrome extensions, it opens a popup.
-* There provide the long Link that you want to shorten and click on Create.
-* And it generated the short Link (you can use it)
+* Click on the extension(Link Shortener Chrome Extension) from chrome extensions toolbox, it opens a popup.
+* Paste the long Link that you want to shorten and click on Create.
+* Then it will generate a short Link (you can use it)
 
 ## 2nd Method
 In order to use this extension using your own API you need to setup few more things, See below.
@@ -43,8 +43,8 @@ In order to use this extension using your own API you need to setup few more thi
 * Open website [T.ly](https://t.ly/home)
 * Signup on this website then login to the website.
 * Click on Generate API Token or navigate to [Generate API Token](https://t.ly/settings#/api)
-* Provide any userfriendly token name and click on create.
-* Notedown the API Token generated here.
+* Enter any userfriendly token name and click on create.
+* Copy/save the API Token.
 * Right click on the Extension and click on Options
 * Enter the API token (Generated in the above steps) and click Save.
 * Now the configuration needed for tool is completed.
