@@ -1,6 +1,6 @@
 {
     "name": "Link Shortener by Swarnadeep",
-    "version": "0.1",
+    "version": "1.2",
     "description": "Shorten Your Long Link using t.ly API",    
     "icons": {
         "128": "Images/Logo.png"
