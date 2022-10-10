@@ -1,20 +1,21 @@
-# Link-Shortener-Chrome-Extension
-![Logo](https://user-images.githubusercontent.com/74227514/176158701-ae980052-85da-415f-b9d9-7f131fa4877a.png)
+<h1 align="center">Link-Shortener-Chrome-Extension</h1>
 
+<div align="center">
+<a href="https://github.com/topics/html"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?&style=for-the-badge"/></a>
+<a href="https://github.com/topics/css"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%23E34F26.svg?&style=for-the-badge"/></a>
+<a href="https://github.com/topics/javascript"><img alt="javascript" src="https://img.shields.io/badge/Javascript%20-%23E34F26.svg?&style=for-the-badge&logo=javascript&logoColor=white"/></a></div>
+<br>
+<div align="center">
+<a href="https://github.com/iamswarnadeep/Link-Shortener-by-Swarnadeep"><img alt="Link Shortener" src="https://user-images.githubusercontent.com/74227514/194804765-ae7e2481-a5b0-4784-b41b-aa9f521f8044.png"/></a></div>
+<br>
+<p align="center">Link Shortener is a Chrome extension developed to shorten the long Links.
+<br>
+Generally some url links are very lengthy and it's hard to share them with anyone, so using this tool you can create a short url which is easy to share on any platform.</p>
 
+<h1 align="center">Demo Video</h1>
 
-
-Link Shortener is a Chrome extension developed to shorten the long Links.
-
-Generally some url links are very lengthy and it's hard to share them with anyone, so using this tool you can create a short url which is easy to share on any platform.
-
-## Demo Video
-
-
-
-https://user-images.githubusercontent.com/74227514/176155407-13858b38-b83e-4677-9794-9eb5dbec5bfe.mp4
-
-
+<div align="center">
+<video src="https://user-images.githubusercontent.com/74227514/176155407-13858b38-b83e-4677-9794-9eb5dbec5bfe.mp4"/></div>
 
 ## Extension Installation Steps:
 1. Download this Repository as ZIP (as shown in below image).
